@@ -43,6 +43,10 @@ run command below in console from root directory:
     php artisan migrate
     php artisan db:seed
   ```
+- To run the application:
+```
+    php artisan serve
+```
 
 <br>
 
