@@ -16,21 +16,20 @@ class EmployeeTable extends TableBase
 
     public $firstJoin = false;
         
-    public function query():Builder
-    {
-        return Employee::query();
-    }
-
     public function mount(){
         if ($this->firstJoin) {
             $this->initialColumnSort="join_date";
             $this->initialSort="asc";
             $this->searchEnabled=false;
-            $this->paginationEnabled=false;
+            $this->displayLink=false;
             $this->displayPerpage=false;
             $this->displayCount=false;
-            $this->perPage=3;
         }
+    }
+
+    public function query():Builder
+    {
+        return Employee::query();
     }
 
     public function columns():array

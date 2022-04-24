@@ -4,7 +4,7 @@
 		<div class="col-lg-12 col-sm-6">
 			<x-elements.panel title="3 Karyawan Pertama Kali Bergabung">
 				<x-slot name="body">
-					<livewire:table.employee-table :firstJoin="true"/>
+					<livewire:table.employee-table :firstJoin="true" :perPage="3"/>
 				</x-slot>
 			</x-elements.panel>
 		</div>
