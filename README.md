@@ -30,10 +30,16 @@ Project Stack:
 ## RUN In Development mode
 - config .env -> use .env.example as reference 
 - Setup Database in .env file
-- composer install
-- npm install && run dev
-- php artisan migrate
-- php artisan db:seed
+- ```
+    composer install
+  ```
+- ```
+    npm install && run dev
+  ```
+- ```
+    php artisan migrate
+    php artisan db:seed
+  ```
 
 <br>
 
