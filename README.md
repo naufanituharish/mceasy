@@ -28,22 +28,22 @@ Project Stack:
 <br>
 
 ## RUN In Development mode
-- config .env -> use .env.example as reference 
-- Setup Database in .env file
+1. config .env -> use .env.example as reference 
+2. Setup Database in .env file
 
-run command below in console from root directory:
+3. run command below in console from root directory:
 
-- ```
+```
     composer install
-  ```
-- ```
+```
+```
     npm install && run dev
-  ```
-- ```
+```
+```
     php artisan migrate
     php artisan db:seed
-  ```
-- To run the application:
+```
+4. To run the application:
 ```
     php artisan serve
 ```
