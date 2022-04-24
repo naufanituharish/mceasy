@@ -9,8 +9,6 @@ Project Stack:
 - UI Framework [Laravel Livewire](https://laravel-livewire.com/docs/2.x/quickstart)
 - Database MariaDB.
 
-
-
 <br>
 
 ## RUN In Development mode
