@@ -13,16 +13,17 @@ Project Stack:
 
 ## Requirement
 1. PHP 7.4+
-2. Node 10+ and NPM 5+
-3. BCMath PHP Extension
-4. Ctype PHP Extension
-5. Fileinfo PHP Extension
-6. JSON PHP Extension
-7. Mbstring PHP Extension
-8. OpenSSL PHP Extension
-9. PDO PHP Extension
-10. Tokenizer PHP Extension
-11. XML PHP Extension
+2. MySql 5.7+ / MariaDB 10+
+3. Node 10+ and NPM 5+
+4. BCMath PHP Extension
+5. Ctype PHP Extension
+6. Fileinfo PHP Extension
+7. JSON PHP Extension
+8. Mbstring PHP Extension
+9. OpenSSL PHP Extension
+10. PDO PHP Extension
+11. Tokenizer PHP Extension
+12. XML PHP Extension
 
 <br>
 
