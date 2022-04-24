@@ -1,0 +1,1 @@
+<x-view-container.base :viewComponents="$viewComponents" :isUseLoading="$this->isUseLoading()"/>
