@@ -11,8 +11,24 @@ Project Stack:
 
 <br>
 
+## Requirement
+1. PHP 7.4+
+2. Node 10+ and NPM 5+
+3. BCMath PHP Extension
+4. Ctype PHP Extension
+5. Fileinfo PHP Extension
+6. JSON PHP Extension
+7. Mbstring PHP Extension
+8. OpenSSL PHP Extension
+9. PDO PHP Extension
+10. Tokenizer PHP Extension
+11. XML PHP Extension
+
+<br>
+
 ## RUN In Development mode
-- config .env -> use .env.example as reference
+- config .env -> use .env.example as reference 
+- Setup Database in .env file
 - composer install
 - npm install && run dev
 - php artisan migrate
