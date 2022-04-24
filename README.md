@@ -30,6 +30,9 @@ Project Stack:
 ## RUN In Development mode
 - config .env -> use .env.example as reference 
 - Setup Database in .env file
+
+run command below in console from root directory:
+
 - ```
     composer install
   ```
