@@ -22,9 +22,9 @@ Project Stack:
 
 ## Screenshoot
 1. Home page
-[](https://github.com/naufanituharish/mceasy/blob/master/public/images/screenshoot/1.png)
+![](public/images/screenshoot/1.png)
 2. Employee page
-[](https://github.com/naufanituharish/mceasy/blob/master/public/images/screenshoot/2.png)
+![](public/images/screenshoot/2.png)
 3. Create Employee
-[](https://github.com/naufanituharish/mceasy/blob/master/public/images/screenshoot/3.png)
+![](public/images/screenshoot/3.png)
 <br>
